@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@font-face {
+  font-family: EuclidCircularARegular;
+  src: url(../fonts/euclidflex/EuclidCircularARegular.ttf);
+
+  font-family: EuclidCircularABold;
+  src: url(../fonts/euclidflex/EuclidCircularABold.ttf);
+
+  font-family: EuclidCircularAMedium;
+  src: url(../fonts/euclidflex/EuclidCircularAMedium.ttf);
+
+  font-family: EuclidCircularBRegular;
+  src: url(../fonts/euclidflex/EuclidCircularBRegular.ttf);
+
+  font-family: EuclidCircularBMedium;
+  src: url(../fonts/euclidflex/EuclidCircularBMedium.ttf);
+
+  font-family: EuclidCircularBBold;
+  src: url(../fonts/euclidflex/EuclidCircularBBold.ttf);
+
+  font-family: EuclidCircularBLight;
+  src: url(../fonts/euclidflex/EuclidCircularBLight.ttf);
+
+  font-family: EuclidCircularBSemiBold;
+  src: url(../fonts/euclidflex/EuclidCircularBSemiBold.ttf);
+}
